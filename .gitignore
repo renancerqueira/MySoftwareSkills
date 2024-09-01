@@ -1,0 +1,123 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.vspscc
+*.vssscc
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Build Results of an ASP.NET website
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.csproj.user
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ASP.NET Core website
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Auto-generated VS 2019/2022 files
+.vscode/
+.vs/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Pipelines
+.azure/
+.terraform/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Rider
+.idea/
+.idea_modules/
+*.iml
+.idea/description.xml
+.idea/workspace.xml
+.idea_tasks.xml
+.idea/*.xml
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/deployment.xml
+.idea/module.xml
+.idea/tasks.xml
+.idea/dataSources/
+.idea/libraries/
+.idea/asset-watcher.xml
+.idea/sqlite-libraries.xml
+
+# Rider Editor-specific files
+.idea/runConfigurations/
+.idea/codeStyles/
+.idea/codeSniffer/
+.idea/workspace.xml
+.idea/jsLibraryMappings.xml
+.idea/sqlite-libraries.xml
+.idea/asset-watcher.xml
+.idea/compiler.xml
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.sln.iml
