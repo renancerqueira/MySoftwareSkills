@@ -3,11 +3,11 @@
 
 ## Overview
 
-The **MySoftwareSkills API** is a RESTful web service designed to manage skills information. This project showcases advanced software development skills, adhering to SOLID principles, design patterns, and utilizing modern technologies like MongoDB, .NET 6, and Swagger for API documentation.
+The **MySoftwareSkills API** is a RESTful web service designed to manage skills information. This project showcases advanced software development skills, adhering to SOLID principles, design patterns, and utilizing modern technologies like MongoDB, .NET 8, and Swagger for API documentation.
 
 ## Technologies Involved
 
-- **.NET 6**: The latest version of the .NET platform, offering improved performance, minimal API, and better integration with modern technologies.
+- **.NET 8**: The latest version of the .NET platform, offering improved performance, minimal API, and better integration with modern technologies.
 - **C#**: A powerful, versatile language used for building the API, ensuring strong typing and efficient execution.
 - **MongoDB**: A NoSQL database that provides flexibility in data modeling, allowing for efficient handling of unstructured data.
 - **Swagger**: Integrated for API documentation, providing an interactive interface to test the API endpoints.
